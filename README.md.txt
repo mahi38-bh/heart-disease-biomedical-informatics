@@ -1,19 +1,21 @@
 Heart Disease – Biomedical Informatics Analysis
 
 Overview
-This project explores a clinical heart disease dataset containing 1,025 patients and 14 variables. The objective is to demonstrate biomedical informatics principles such as data quality assessment, outcome stratification, and cautious clinical interpretation.
+This project analyzes a clinical heart disease dataset comprising 1,025 patients and 14 variables. The objective is to apply biomedical informatics principles such as data quality assessment, outcome stratification, and cautious clinical interpretation, rather than focusing on predictive modeling.
 
 Key Steps
-- Verified dataset completeness and variable integrity
-- Analyzed disease prevalence and demographic patterns
-- Examined age, blood pressure, and cholesterol differences by disease status
-- Interpreted counter-intuitive findings in the context of treatment effects and real-world clinical bias
-- Visualized disease distribution using a simple bar chart
+
+Assessed dataset completeness and variable integrity
+Examined disease prevalence and demographic patterns
+Analyzed differences in age, blood pressure, and cholesterol by disease status
+Interpreted counter-intuitive findings in the context of treatment effects and real-world clinical bias
+Visualized disease distribution using simple, interpretable charts
 
 Tools Used
-- Python
-- Pandas
-- Matplotlib
+
+Python
+Pandas
+Matplotlib
 
 Key Learning
-This project emphasizes informatics-focused thinking—understanding healthcare data within clinical and system-level context rather than relying solely on predictive modeling.
+This project emphasizes informatics-driven thinking by interpreting healthcare data within clinical and system-level contexts, highlighting the importance of data quality, bias awareness, and cautious conclusions in biomedical datasets.
